@@ -1,0 +1,6 @@
+int a, b,
+temp=a;
+a=b;
+b=temp;
+how to swap without a temp variable
+xor a + b

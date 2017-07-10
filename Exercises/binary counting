@@ -1,0 +1,14 @@
+[ao,a1,...,a100]
+0(logn)
+300,000,000
+linear = 3 x 10(to the eight)
+binary = log 3 x 10(to the eighth) ~ 27
+low = 0
+high = n
+mid = high + low/2
+binary =3
+linear= 100
+low high mid
+0    39  49
+0    48  24
+25   48  36
